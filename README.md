@@ -12,9 +12,9 @@ Vamos a suponer que queremos hacer un ejercicio que tira de la API de usarias de
 
 > Recordad que las imágenes no nos funcionarán ya que no tenemos internet pero podremos trabajar con el objeto sin problema.
 
-***
+## ¿Puedo ver un ejemplo de esto?
 
-En este repositorio tienes un ejemplo para verlo funcionando
+Claro, en este repositorio tienes un ejemplo para verlo funcionando ;)
 
 ***
 
